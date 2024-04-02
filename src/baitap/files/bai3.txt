@@ -1,0 +1,3 @@
+[Bài tập] tìm và hiển thị các từ có độ dài lớn nhất
+Mục tiêu: luyện tập đọc ghi file. nghiêm
+Đề bài: Viết chương trình đọc nội dung từ file text và tìm và hiển thị các từ có độ dài lớn nhất trong file đó.

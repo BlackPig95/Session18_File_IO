@@ -1,0 +1,3 @@
+Bài tập sao chép file và đảo ngược phần tử
+Mục tiêu: luyện tập đọc ghi file
+Đề bài: Viết chương trình đọc nội dung từ file text và tạo một bản sao của file đó với tên mới và các từ được đảo ngược thứ tự.

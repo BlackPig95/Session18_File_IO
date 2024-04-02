@@ -1,0 +1,3 @@
+[Bài tập] đếm số lượng từ trong file
+Mục tiêu:  luyện tập đọc file.
+Đề bài: Viết chương trình đọc nội dung từ file text và hiển thị số lượng từ trong file đó.
