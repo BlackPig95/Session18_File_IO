@@ -5,7 +5,7 @@ import java.util.List;
 
 public class GenericObjectInputStream
 {
-    public static <T> List<T> readObjectStream(String path)
+    public static <T extends Serializable> List<T> readObjectStream(String path)
     {
         InputStream fileInputStream = null;
         ObjectInputStream objectInputStream = null;
